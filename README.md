@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro 👋
 
-- 🔭 Trabalhando atualmente com front-end 
+- 🔭 Trabalhando atualmente como Data Scientist, Front-end developer
 - 🌱 Estudando React e NodeJS
 - 📫 Contate-me no email: thepedrinhoo@gmail.com
 

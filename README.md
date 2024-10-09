@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Hernandes👋
 
-- 🔭 Trabalhando atualmente como Data Scientist, e Software Developer.
-- 🌱 Estudando Inteligência Artificial e Big data.
+- 🔭 Trabalhando atualmente como Desenvolvedor de Software Full Stack Stacks: React, Node.js Python e frameworks como Django REST Framework (DRF), Flask e FastAPI.
+- 🌱 Estudando Inteligência Artificial e Cloud.
 - 📫 Contate-me no email: thepedrinhoo@gmail.com
 
 <div style="display: inline_block"><br>
